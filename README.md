@@ -1,1 +1,1 @@
-animateCssWowJsExample
+This project includes the example of animate css and wow js
